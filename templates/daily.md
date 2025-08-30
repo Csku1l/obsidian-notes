@@ -1,5 +1,5 @@
-# Daily Tasks - <% tp.date.now("YYYY-MM-DD") %>
-
+<% tp.file.rename("Daily Tasks "+ tp.date.now("YYYY-MM-DD")) %>
+<% tp.file.move("todo/Daily Tasks "+ tp.date.now("YYYY-MM-DD")) %>
 ## Warm-up
 - [ ] Python 학습
 - [ ] Kaggle 실습
