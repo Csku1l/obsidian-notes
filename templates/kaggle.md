@@ -1,5 +1,5 @@
 <% tp.file.rename("Kaggle Experiment "+ tp.date.now("YYYY-MM-DD")) %>
-<% tp.file.move("todo/Kaggle Experiment "+ tp.date.now("YYYY-MM-DD")) %>
+<% tp.file.move("kaggle/Kaggle Experiment "+ tp.date.now("YYYY-MM-DD")) %>
 ## 대회명
 House Prices - Advanced Regression
 
