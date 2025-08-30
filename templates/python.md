@@ -1,4 +1,4 @@
-<% tp.file.rename("Python Note "+ tp.date.now("YYYY-MM-DD") %>
+<% tp.file.rename("Python Note "+ tp.date.now("YYYY-MM-DD")) %>
 <% tp.file.move("notes/Python Note "+ tp.date.now("YYYY-MM-DD")) %>
 ## 주제
 (예: 조건문 if/else)
