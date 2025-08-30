@@ -1,7 +1,7 @@
 # Daily Tasks - 2025-08-31
 
 ## Warm-up
-- [ ] Python 학습: {{tp_date}}
+- [ ] Python 학습
 - [ ] Kaggle 실습
 - [ ] GitHub 업데이트
 

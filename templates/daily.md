@@ -1,7 +1,7 @@
 # Daily Tasks - <% tp.date.now("YYYY-MM-DD") %>
 
 ## Warm-up
-- [ ] Python 학습: 
+- [ ] Python 학습
 - [ ] Kaggle 실습
 - [ ] GitHub 업데이트
 
