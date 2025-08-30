@@ -1,0 +1,16 @@
+# OS 기본 캐시/임시 파일
+.DS_Store
+Thumbs.db
+
+# Obsidian 레이아웃/환경 파일
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/obsidian-git/obsidian-git.log
+.obsidian/appearance.json
+
+# 쓰레기통 및 캐시
+.trash/
+.cache/
+
+# 백업/임시 파일
+*.tmp
