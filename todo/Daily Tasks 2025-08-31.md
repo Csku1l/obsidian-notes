@@ -1,11 +1,11 @@
 
-## Warm-up
-- [ ] Python 복습 📅 2025-08-31
-- [ ] Kaggle 계정 📅 2025-08-31
-- [ ] Kaggle 환경 세팅 📅 2025-08-31
-- [ ] GitHub Repo 📅 2025-08-31
-- [ ] README 📅 2025-08-31
-
+## Warm-up 진행상황 (자동)
+```tasks
+path includes todo
+heading includes Python 복습
+heading includes Kaggle
+heading includes GitHub
+```
 ## Python 복습
 - [ ] 조건문 if/elif/else 실습 📅 2025-08-31
 - [ ] 반복문 for/while 연습 📅 2025-08-31

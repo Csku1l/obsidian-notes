@@ -1,4 +1,5 @@
 {
   "folder": "todo",
-  "template": "templates/daily"
+  "template": "templates/daily",
+  "format": ""
 }
