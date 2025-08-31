@@ -1,5 +1,3 @@
-<% tp.file.rename("Daily Tasks "+ tp.date.now("YYYY-MM-DD")) %>
-<% tp.file.move("todo/Daily Tasks "+ tp.date.now("YYYY-MM-DD")) %>
 <%*
 const today = tp.date.now("YYYY-MM-DD");
 const dow   = tp.date.now("dddd"); // Monday, Tuesday...
