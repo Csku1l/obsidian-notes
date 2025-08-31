@@ -1,22 +1,14 @@
 
-## Warm-up 진행상황 (자동)
-```tasks
-path includes todo
-heading includes Python 복습
-heading includes Kaggle
-heading includes GitHub
-```
-## Python 복습
+## Warm-up
+### Python 복습
 - [ ] 조건문 if/elif/else 실습 📅 2025-08-31
 - [ ] 반복문 for/while 연습 📅 2025-08-31
 - [ ] 리스트 컴프리헨션 예제 📅 2025-08-31
-
-## Kaggle EDA (House Prices)
+### Kaggle EDA (House Prices)
 - [ ] `train.info()` 실행 📅 2025-08-31
 - [ ] `train.describe()` 실행 📅 2025-08-31
 - [ ] 결측치 확인 (`.isnull().sum()`) 📅 2025-08-31
-
-## GitHub & README
+### GitHub & README
 - [ ] Repo pull 확인 📅 2025-08-31
 - [ ] 커밋 & 푸시 확인 📅 2025-08-31
 - [ ] README.md 업데이트 📅 2025-08-31

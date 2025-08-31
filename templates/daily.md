@@ -12,23 +12,15 @@ if (dow === "Monday") {
 }
 %>
 ## Warm-up
-- [ ] Python 복습 📅 <% tp.date.now("YYYY-MM-DD") %>
-- [ ] Kaggle 계정 📅 <% tp.date.now("YYYY-MM-DD") %>
-- [ ] Kaggle 환경 세팅 📅 <% tp.date.now("YYYY-MM-DD") %>
-- [ ] GitHub Repo 📅 <% tp.date.now("YYYY-MM-DD") %>
-- [ ] README 📅 <% tp.date.now("YYYY-MM-DD") %>
-
-## Python 복습
+### Python 복습
 - [ ] 조건문 if/elif/else 실습 📅 <% tp.date.now("YYYY-MM-DD") %>
 - [ ] 반복문 for/while 연습 📅 <% tp.date.now("YYYY-MM-DD") %>
 - [ ] 리스트 컴프리헨션 예제 📅 <% tp.date.now("YYYY-MM-DD") %>
-
-## Kaggle EDA (House Prices)
+### Kaggle EDA (House Prices)
 - [ ] `train.info()` 실행 📅 <% tp.date.now("YYYY-MM-DD") %>
 - [ ] `train.describe()` 실행 📅 <% tp.date.now("YYYY-MM-DD") %>
 - [ ] 결측치 확인 (`.isnull().sum()`) 📅 <% tp.date.now("YYYY-MM-DD") %>
-
-## GitHub & README
+### GitHub & README
 - [ ] Repo pull 확인 📅 <% tp.date.now("YYYY-MM-DD") %>
 - [ ] 커밋 & 푸시 확인 📅 <% tp.date.now("YYYY-MM-DD") %>
 - [ ] README.md 업데이트 📅 <% tp.date.now("YYYY-MM-DD") %>
