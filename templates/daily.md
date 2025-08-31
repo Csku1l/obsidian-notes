@@ -44,9 +44,13 @@ not done
 due today
 path includes todo
 ```
+### Warm-up 진행 상황
+```tasks
+path includes todo
+heading includes Warm-up
+```
 
 ## Notes
 - 오늘 배운 점:
-
 ## Tomorrow
 - 계획:
