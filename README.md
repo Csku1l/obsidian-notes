@@ -23,6 +23,12 @@
 - .gitignore, .gitattributes 설정 → 불필요 파일 제외
 - Templater 플러그인으로 Daily / Kaggle / Python 학습 템플릿 작성
 - Daily Note에 학습 계획/체크리스트 기록 시작
+### 2026-09-03
+- 데이터셋: Titanic (train.csv, 891행 x 12열)
+- 구조 확인: `train.info()` -> 주요 컬럼 타입 및 결측치 확인
+- 기본 통계: `train.dexcribe()` -> Fare, Age 등 분포 확인
+- 결측치 요약: `isnull().sum()` -> Age(177), Cabin(687), Embarked(2) 등 결측 다수
+- 다음 단계: Age 분포 시각화, Sex.Pclass별 생존률 분석
 
 ---
 
