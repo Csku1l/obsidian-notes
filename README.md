@@ -14,8 +14,9 @@
 
 2. **Kaggle 입문**
    - Titanic: 데이터 로딩 → info/describe/isnull
-   - EDA: 결측치 분석, 시각화
-   - 간단한 Feature Engineering
+   - EDA: 결측치 분석
+   - **시각화: 히스토그램, barplot**
+   - **카테고리별 분석: groupby, 교차 요인 분석**
 
 3. **데이터 분석 심화**
    - Pandas, Numpy 활용
@@ -35,6 +36,7 @@
    - GitHub Repo 정리
    - README 업데이트
    - Kaggle Notebook 공유
+
 
 ---
 ## 📆 Timeline
